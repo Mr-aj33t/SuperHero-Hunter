@@ -55,9 +55,13 @@ This project uses the SuperHero API to fetch superhero data.
 - Replace the `API_KEY` in your code with your actual API key.
 
 ## Screenshots
-![Home Page](screenshots/home.png)
-![Search Results](screenshots/search-results.png)
-![Superhero Details](screenshots/superhero-details.png)
+![Home Page](https://github.com/Mr-aj33t/SuperHero-Hunter/blob/392205f524c2e20f8bee812d776ae01d797ac2b9/Screenshort/1m.png)
+![Search Results](https://github.com/Mr-aj33t/SuperHero-Hunter/blob/392205f524c2e20f8bee812d776ae01d797ac2b9/Screenshort/2m.png)
+![Superhero Details](https://github.com/Mr-aj33t/SuperHero-Hunter/blob/392205f524c2e20f8bee812d776ae01d797ac2b9/Screenshort/3m.png)
+![Add To Favourites](https://github.com/Mr-aj33t/SuperHero-Hunter/blob/392205f524c2e20f8bee812d776ae01d797ac2b9/Screenshort/4m.png)
+![Dark Theme Home Page](https://github.com/Mr-aj33t/SuperHero-Hunter/blob/392205f524c2e20f8bee812d776ae01d797ac2b9/Screenshort/5m.png)
+![Favourite Page](https://github.com/Mr-aj33t/SuperHero-Hunter/blob/392205f524c2e20f8bee812d776ae01d797ac2b9/Screenshort/6m.png)
+
 
 ## Contributing
 Contributions are welcome! Please follow these steps to contribute:
