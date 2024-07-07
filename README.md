@@ -67,7 +67,7 @@ Superhero Details
 Add To Favourites
 ![Add To Favourites](https://github.com/Mr-aj33t/SuperHero-Hunter/blob/392205f524c2e20f8bee812d776ae01d797ac2b9/Screenshort/4m.png)
 
-Dark Theme Home Page
+ Home Page **Dark Theme**
 ![Home Page** Dark Theme** ](https://github.com/Mr-aj33t/SuperHero-Hunter/blob/392205f524c2e20f8bee812d776ae01d797ac2b9/Screenshort/5m.png)
 
 Favourite Page
